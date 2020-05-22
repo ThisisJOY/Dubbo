@@ -1,0 +1,4 @@
+
+©%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'org.apache.dubbo.rpc.RpcException' which is a runtime exception.(ά»²ϊÿÿÿÿ8ήσ”Ώ£.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(µό¨Φ8‚ϊΔΏ£.
